@@ -1,0 +1,21 @@
+.islogin{
+    margin-left: 16.6%;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.islogin button{
+    background-color: #000080;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 25px;
+    padding: 10px;
+}
+.islogin button:hover{
+    background-color: rgb(86, 85, 85);
+    color: #fff;
+}
